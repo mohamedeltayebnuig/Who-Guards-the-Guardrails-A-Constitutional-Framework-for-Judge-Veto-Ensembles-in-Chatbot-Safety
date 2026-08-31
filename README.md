@@ -14,3 +14,5 @@ Experiment 2:
 []()
 
 [Experiment 3](https://github.com/mohamedeltayebnuig/Who-Guards-the-Guardrails-A-Constitutional-Framework-for-Judge-Veto-Ensembles-in-Chatbot-Safety/blob/main/Experiment_3.ipynb)
+
+[Rough Work for Experiment 1 and 2 and 3 and failed experiments ](https://github.com/mohamedeltayebnuig/Who-Guards-the-Guardrails-A-Constitutional-Framework-for-Judge-Veto-Ensembles-in-Chatbot-Safety/blob/main/Rough_Work_For_Experiment_1_2_3%2BFailed_Experiments.ipynb) 
